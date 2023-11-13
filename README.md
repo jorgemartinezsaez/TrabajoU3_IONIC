@@ -6,7 +6,7 @@ Parques de Chile - Prototipo de Baja Fidelidad - IONIC
     * El objetivo principal es comprender la forma de construir una aplicación móvil, utilizando un framework de desarrollo.
 
 * [PLATAFORMA DE PRUEBA]
-    El prototipo fué desarrollado bajo la siguiente plataforma de trabajo: <br>
+    <br>    El prototipo fué desarrollado bajo la siguiente plataforma de trabajo: 
     *   Sistema Operativo: Windows 10 Pro
          Versión: 22H2
          Compilación del sistema operativo: 19045.3570
