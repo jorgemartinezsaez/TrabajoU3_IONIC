@@ -19,13 +19,18 @@ Parques de Chile - Prototipo de Baja Fidelidad - IONIC
   
 * [CONSIDERACIONES GENERALES]
     *   La única funcionalidad que presenta este prototipo, es poder navegar entre las diferentes páginas de la app.
+    *   La página "splash" no tiene boton de interacción, sólo pretende ser la interfaz inicial de carga de la aplicación.
+    *   La primera página con interacción es la página "clave única" que es donde el usuario ingresa a la aplicación.
+    *   La aplicación NO contiene código alguno de validación de autentificación. Sólo consiste en mostrar la navegación aplicada a las diferentes interfaces.
     *   La estructura del código del proyecto consiste en 8 páginas que corresponden a las interfaces de la aplicación, las cuales son:
-    Página: Splash [![](TrabajoU3/src/assets/screens/splash.png)](#readme)  Página: Home [![](TrabajoU3/src/assets/screens/home.png)](#readme)  
+      
+    Página 1: Splash [![](TrabajoU3/src/assets/screens/splash.png)](#readme)  Página 2: Home [![](TrabajoU3/src/assets/screens/home.png)](#readme)  
     
-    Página: Clave Unica [![](TrabajoU3/src/assets/screens/clave_unica.png)](#readme)  Página: Login [![](TrabajoU3/src/assets/screens/login.png)](#readme)  
+    Página 3: Clave Unica [![](TrabajoU3/src/assets/screens/clave_unica.png)](#readme)  Página 4: Login [![](TrabajoU3/src/assets/screens/login.png)](#readme)  
     
-    Página: Consultas [![](TrabajoU3/src/assets/screens/consulta.png)](#readme)  Página: Parques [![](TrabajoU3/src/assets/screens/consulta_parques.png)](#readme)  
+    Página 5: Consultas [![](TrabajoU3/src/assets/screens/consulta.png)](#readme)  Página 6: Parques [![](TrabajoU3/src/assets/screens/consulta_parques.png)](#readme)  
     
-    Página: Sepultaciones [![](TrabajoU3/src/assets/screens/consulta_sepultacion.png)](#readme)  Página: FAQ [![](TrabajoU3/src/assets/screens/faq.png)](#readme)  
+    Página 7: Sepultaciones [![](TrabajoU3/src/assets/screens/consulta_sepultacion.png)](#readme)  Página 8: FAQ [![](TrabajoU3/src/assets/screens/faq.png)](#readme)  
     
+    *   La estructura del código del proyecto consiste en 8 páginas que corresponden a las interfaces de la aplicación, las cuales son:
       
