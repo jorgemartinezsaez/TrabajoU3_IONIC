@@ -25,14 +25,8 @@ Parques de Chile - Prototipo de Baja Fidelidad - IONIC
     *   La estructura del código del proyecto consiste en 8 páginas que corresponden a las interfaces de la aplicación, las cuales son:
       
     Página 1: Splash [![](TrabajoU3/src/assets/screens/splash.png)](#readme)  Página 2: Home [![](TrabajoU3/src/assets/screens/home.png)](#readme)  
-
-    
     Página 3: Clave Unica [![](TrabajoU3/src/assets/screens/clave_unica.png)](#readme)  Página 4: Login [![](TrabajoU3/src/assets/screens/login.png)](#readme)  
-
-    
     Página 5: Consultas [![](TrabajoU3/src/assets/screens/consulta.png)](#readme)  Página 6: Parques [![](TrabajoU3/src/assets/screens/consulta_parques.png)](#readme)  
-
-    
     Página 7: Sepultaciones [![](TrabajoU3/src/assets/screens/consulta_sepultacion.png)](#readme)  Página 8: FAQ [![](TrabajoU3/src/assets/screens/faq.png)](#readme)  
     
     *   La estructura del código del proyecto consiste en 8 páginas que corresponden a las interfaces de la aplicación, las cuales son:
