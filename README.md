@@ -16,9 +16,20 @@ Parques de Chile - Prototipo de Baja Fidelidad - IONIC
     *   RAM Instalada: 16.0 GB (15.9 GB usable)
     *   Node Version: v21.1.0
     *   IONIC Version: 7.1.1
+    *   Visual Studio Code:
+         Version: 1.83.1 (system setup)
+         Commit: f1b07bd25dfad64b0167beb15359ae573aecd2cc
+         Date: 2023-10-10T23:48:05.904Z
+         Electron: 25.8.4
+         ElectronBuildId: 24154031
+         Chromium: 114.0.5735.289
+         Node.js: 18.15.0
+         V8: 11.4.183.29-electron.0
+         OS: Windows_NT x64 10.0.19045
   
 * [CONSIDERACIONES GENERALES]
   
+    *   La única funcionalidad que presenta este prototipo, es poder navegar entre las diferentes páginas de la app.
     *   La única funcionalidad que presenta este prototipo, es poder navegar entre las diferentes páginas de la app.
     *   La página "splash" no tiene boton de interacción, sólo pretende ser la interfaz inicial de carga de la aplicación.
     *   La primera página con interacción es la página "clave única" que es donde el usuario ingresa a la aplicación.
