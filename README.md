@@ -24,6 +24,7 @@ Parques de Chile - Prototipo de Baja Fidelidad - IONIC
     *   La primera página con interacción es la página "clave única" que es donde el usuario ingresa a la aplicación.
     *   La aplicación NO contiene código alguno de validación de autentificación. Sólo consiste en mostrar la navegación aplicada a las diferentes interfaces.
     *   La estructura del código del proyecto consiste en 8 páginas que corresponden a las interfaces de la aplicación, las cuales son:
+    *   
       
     Página 1: Splash [![](TrabajoU3/src/assets/screens/splash.png)](#readme)  Página 2: Home [![](TrabajoU3/src/assets/screens/home.png)](#readme)  
     Página 3: Clave Unica [![](TrabajoU3/src/assets/screens/clave_unica.png)](#readme)  Página 4: Login [![](TrabajoU3/src/assets/screens/login.png)](#readme)  
