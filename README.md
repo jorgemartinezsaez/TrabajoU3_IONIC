@@ -27,8 +27,8 @@ Parques de Chile - Prototipo de Baja Fidelidad - IONIC
     <br />  
       
     Página 1: Splash [![](TrabajoU3/src/assets/screens/splash.png)](#readme)  Página 2: Home [![](TrabajoU3/src/assets/screens/home.png)](#readme)     <br />  
-    Página 3: Clave Unica [![](TrabajoU3/src/assets/screens/clave_unica.png)](#readme)  Página 4: Login [![](TrabajoU3/src/assets/screens/login.png)](#readme)     <br />  
-    Página 5: Consultas [![](TrabajoU3/src/assets/screens/consulta.png)](#readme)  Página 6: Parques [![](TrabajoU3/src/assets/screens/consulta_parques.png)](#readme)     <br />  
-    Página 7: Sepultaciones [![](TrabajoU3/src/assets/screens/consulta_sepultacion.png)](#readme)  Página 8: FAQ [![](TrabajoU3/src/assets/screens/faq.png)](#readme)  
+     <br /> Página 3: Clave Unica [![](TrabajoU3/src/assets/screens/clave_unica.png)](#readme)  Página 4: Login [![](TrabajoU3/src/assets/screens/login.png)](#readme)     <br />  
+     <br /> Página 5: Consultas [![](TrabajoU3/src/assets/screens/consulta.png)](#readme)  Página 6: Parques [![](TrabajoU3/src/assets/screens/consulta_parques.png)](#readme)     <br />  
+     <br /> Página 7: Sepultaciones [![](TrabajoU3/src/assets/screens/consulta_sepultacion.png)](#readme)  Página 8: FAQ [![](TrabajoU3/src/assets/screens/faq.png)](#readme)  
     
       
