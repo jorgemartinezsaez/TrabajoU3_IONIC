@@ -29,7 +29,7 @@ Parques de Chile - Prototipo de Baja Fidelidad - IONIC
   
 * [CONSIDERACIONES GENERALES]
   
-    *   La única funcionalidad que presenta este prototipo, es poder navegar entre las diferentes páginas de la app.
+    *   La carpeta TrabjoU3 alberga el proyecto IONIC en su totalidad.
     *   La única funcionalidad que presenta este prototipo, es poder navegar entre las diferentes páginas de la app.
     *   La página "splash" no tiene boton de interacción, sólo pretende ser la interfaz inicial de carga de la aplicación.
     *   La primera página con interacción es la página "clave única" que es donde el usuario ingresa a la aplicación.
