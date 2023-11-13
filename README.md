@@ -16,4 +16,9 @@ Parques de Chile - Prototipo de Baja Fidelidad - IONIC
     *   RAM Instalada: 16.0 GB (15.9 GB usable)
     *   Node Version: v21.1.0
     *   IONIC Version: 7.1.1
+  
+* [CONSIDERACIONES GENERALES]
+    *   La única funcionalidad que presenta este prototipo, es poder navegar entre las diferentes páginas de la app.
+    *   La estructura del código del proyecto consiste en 8 páginas que corresponden a las interfaces de la aplicación, las cuales son:
+    [![YT-DLP](https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/.github/banner.svg)](#readme)  
       
