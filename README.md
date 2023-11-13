@@ -4,6 +4,8 @@ Parques de Chile - Prototipo de Baja Fidelidad - IONIC
     * Este trabajo consiste en mostrar el uso básico del framework IONIC para el desarrollo de un prototipo funcional de baja calidad del proyecto realizado en
       la Asignatura **TALLER DE DISPOSITIVOS MOVILES - 250 - 453687**.
     * El objetivo principal es comprender la forma de construir una aplicación móvil, utilizando un framework de desarrollo.
+    * El proyecto consiste en una app móvil que permita a los usuarios autentificados con su clave única, poder consultar un registro nacional de parques cementerios y
+      sepultaciones, y de esta forma, saber exactamente el lugar físico en donde se encuentran sepultadas las personas que sean consultadas.
 
 * [PLATAFORMA DE PRUEBA]
 
@@ -41,5 +43,12 @@ Parques de Chile - Prototipo de Baja Fidelidad - IONIC
      <br /> Página 3: Clave Unica [![](TrabajoU3/src/assets/screens/clave_unica.png)](#readme)  Página 4: Login [![](TrabajoU3/src/assets/screens/login.png)](#readme)     <br />  
      <br /> Página 5: Consultas [![](TrabajoU3/src/assets/screens/consulta.png)](#readme)  Página 6: Parques [![](TrabajoU3/src/assets/screens/consulta_parques.png)](#readme)     <br />  
      <br /> Página 7: Sepultaciones [![](TrabajoU3/src/assets/screens/consulta_sepultacion.png)](#readme)  Página 8: FAQ [![](TrabajoU3/src/assets/screens/faq.png)](#readme)  
+
+* [PROBLEMAS ENFRENTADOS Y CONCLUSIONES]
+  
+    *   El mayor desafío sin duda alguna ha sido comprender la estructura y forma de trabajo en un proyecto IONIC.
+    *   Espero investigar mas profundamente respecto del uso de componentes, ya que creo que IONIC es una excelente herramienta que permite el desarrollo muy rápido de
+        aplicaciones móviles.
+    *   Creo que el uso de IONIC es ideal para entornos donde se necesite integrar HTML, JS, CSS.
     
-      
+        
