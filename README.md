@@ -18,6 +18,7 @@ Parques de Chile - Prototipo de Baja Fidelidad - IONIC
     *   IONIC Version: 7.1.1
   
 * [CONSIDERACIONES GENERALES]
+  
     *   La única funcionalidad que presenta este prototipo, es poder navegar entre las diferentes páginas de la app.
     *   La página "splash" no tiene boton de interacción, sólo pretende ser la interfaz inicial de carga de la aplicación.
     *   La primera página con interacción es la página "clave única" que es donde el usuario ingresa a la aplicación.
@@ -29,5 +30,4 @@ Parques de Chile - Prototipo de Baja Fidelidad - IONIC
     Página 5: Consultas [![](TrabajoU3/src/assets/screens/consulta.png)](#readme)  Página 6: Parques [![](TrabajoU3/src/assets/screens/consulta_parques.png)](#readme)  
     Página 7: Sepultaciones [![](TrabajoU3/src/assets/screens/consulta_sepultacion.png)](#readme)  Página 8: FAQ [![](TrabajoU3/src/assets/screens/faq.png)](#readme)  
     
-    *   La estructura del código del proyecto consiste en 8 páginas que corresponden a las interfaces de la aplicación, las cuales son:
       
